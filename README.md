@@ -1,6 +1,6 @@
 Dependencies:
 
-AutoHotkey v2
+AutoHotkey v2+ -> https://www.autohotkey.com/download/
 
 Nircmd -> https://www.nirsoft.net/utils/nircmd.html
 
