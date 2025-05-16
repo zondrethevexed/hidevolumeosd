@@ -1,5 +1,7 @@
 Dependencies:
+
 AutoHotkey v2
+
 Nircmd -> https://www.nirsoft.net/utils/nircmd.html
 
 Before you run this, edit "nircmdPath :=" to the actual location of nircmd on your computer. 
